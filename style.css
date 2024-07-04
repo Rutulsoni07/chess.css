@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.chess {
+  width: 802px;
+  height: 800px;
+  border: 1px solid black;
+  margin-left: 30%;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  border: 1px solid rgb(0, 0, 0);
+  float: right;
+  font-size: 80px;
+}
+.black {
+  background-color: rgba(24, 64, 224, 0.651);
+}
